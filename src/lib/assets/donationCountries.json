@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Kaufland",
+        "information": "Benötigt durch viel Kleidung, da eine ungewöhnlich große Menschmasse sich dort nidergelassen hat."
+    },
+    {
+        "id": 2,
+        "name": "Papierland",
+        "information": "Durch wiederkehrende Risse werden regelmäßig die Kleidung der Einwohner grundlos zerstört und erzeugt sehr hohen Bedarf an Kleiderspenden."
+    },
+    {
+        "id": 3,
+        "name": "Spaßland",
+        "information": "Hat dauerhaft einen erhöhtes aufkommen an Kleidung, da dort durch spaßige Kletteraktivitäten diverse Kleidungstücke kaputt gehen."
+    },
+    {
+        "id": 4,
+        "name": "Steakland",
+        "information": "Lässtige Fettfelcken zerstören die Kleidungsstücke der einheimischen, welches ohne Kleiderspenden große Armut auslösen würde."
+    }
+]
