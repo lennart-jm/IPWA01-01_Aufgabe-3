@@ -1,13 +1,14 @@
 # IPWA01-01_Aufgabe-3
-IPWA01-01 – Programmierung Webanwendungsoberflächen Fallstudie Aufgabenstellung 3: Kleiderspenden-Registrierung
+IPWA01-01 – Programmierung Webanwendungsoberflächen
+Fallstudie Aufgabenstellung 3: Kleiderspenden-Registrierung
 
-# Abhängigkeiten isntallieren
+# Abhängigkeiten installieren
 
 ```bash
 npm install
 ```
 
-# Server starten zum Entickeln
+# Server starten zum Entwickeln
 ```bash
 npm run dev
 ```
