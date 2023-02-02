@@ -17,7 +17,7 @@
     >
         <svg
             class="bi me-2"
-            width="auto"
+            width="40"
             height="40"
             role="img"
             viewBox="0 0 834 834"
