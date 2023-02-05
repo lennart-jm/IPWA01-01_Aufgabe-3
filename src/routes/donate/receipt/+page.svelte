@@ -8,7 +8,7 @@
     <p><b>Name:</b> {form?.name}</p>
     <p><b>Spendenziel:</b> {form?.donationDestination}</p>
     <p>
-        <b>Angemdelet am Datum:</b>
+        <b>Angemeldet am Datum:</b>
         {form?.date}<b>, Uhrzeit:</b>
         {form?.time}
     </p>
