@@ -26,7 +26,7 @@
 </script>
 
 <div>
-    <h1 class="display-5 fw-bold">Kleiderspende Registrieren</h1>
+    <h1 class="display-5 fw-bold">Kleiderspende registrieren</h1>
 
     <form method="POST" action="donate/receipt">
         <div class="row g-3">
