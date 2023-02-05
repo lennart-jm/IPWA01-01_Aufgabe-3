@@ -1,9 +1,9 @@
 <div class="text-center">
     <h1 class="display-5 fw-bold">Wilkommen bei Kleiderspenden Hamburg</h1>
     <p class="lead mb-4">
-        Unser Verein hat sich zur aufgabe gemacht Kleiderspenden aus ganz
-        Hamburg in aktuelle Zielländer zu verschiffen. Damit die spenden noch
-        einfacher sind, holen wir Ihre spende inerhalb von Hamburg kostenlos ab.
+        Unser Verein hat sich zur Aufgabe gemacht, Kleiderspenden aus ganz
+        Hamburg in aktuelle Krisengebiete zu verschiffen. Damit das Spenden noch
+        einfacher ist, holen wir Ihre Spende innerhalb von Hamburg kostenlos ab.
     </p>
 
     <p class="lead mb-4">
