@@ -2,8 +2,9 @@
 IPWA01-01 – Programmierung Webanwendungsoberflächen
 Fallstudie Aufgabenstellung 3: Kleiderspenden-Registrierung
 
-# Abhängigkeiten installieren
+Matrikelnummer: 92117810
 
+# Abhängigkeiten installieren
 ```bash
 npm install
 ```
@@ -17,5 +18,5 @@ npm run dev
 npm run build
 ```
 
-Oder nur die Preview des Builds anschauen `npm run preview`.
+Nur die Preview des Builds anschauen `npm run preview`.
 

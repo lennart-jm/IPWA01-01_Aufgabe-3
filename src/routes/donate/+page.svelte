@@ -6,16 +6,15 @@
 
     function addClothingItem() {
         clothingItems.push("");
-        // to trigger reactivity of svelte
+        // Wird benoetigt um reactivitaet von Svelte zu triggern
         clothingItems = clothingItems;
-        console.log(clothingItems);
     }
 
     function removeClothingItem(i) {
         clothingItems.splice(i, 1);
-        // to trigger reactivity of svelte
-        clothingItems = clothingItems;
-        console.log("Index: " + i + " Array: " + clothingItems);
+        // Wird benoetigt um reactivitaet von Svelte zu triggern
+        // falls Array leer ist mit leerem String fuellen
+        clothingItems = clothingItems.length ? clothingItems : [""];
     }
 
     let postalCode;
@@ -120,7 +119,7 @@
                         id="postal-code"
                         placeholder="postal-code"
                         required
-                        pattern="22.&#123;3&#125;"
+                        pattern="^22\d&#123;3&#125;$"
                     />
                     <label for="postal-code">Postleitzahl</label>
                     {#if !postalCodeValid && postalCodeFormatValid}
